@@ -1,0 +1,6 @@
+C:\Users\PCDIZAR\Desktop\proyectos\Curso C#\Curso Coppel Csharp\Curso Coppel Csharp\EjemplosConsola\bin\Debug\EjemplosConsola.exe.config
+C:\Users\PCDIZAR\Desktop\proyectos\Curso C#\Curso Coppel Csharp\Curso Coppel Csharp\EjemplosConsola\bin\Debug\EjemplosConsola.exe
+C:\Users\PCDIZAR\Desktop\proyectos\Curso C#\Curso Coppel Csharp\Curso Coppel Csharp\EjemplosConsola\bin\Debug\EjemplosConsola.pdb
+C:\Users\PCDIZAR\Desktop\proyectos\Curso C#\Curso Coppel Csharp\Curso Coppel Csharp\EjemplosConsola\obj\Debug\EjemplosConsola.csprojResolveAssemblyReference.cache
+C:\Users\PCDIZAR\Desktop\proyectos\Curso C#\Curso Coppel Csharp\Curso Coppel Csharp\EjemplosConsola\obj\Debug\EjemplosConsola.exe
+C:\Users\PCDIZAR\Desktop\proyectos\Curso C#\Curso Coppel Csharp\Curso Coppel Csharp\EjemplosConsola\obj\Debug\EjemplosConsola.pdb
